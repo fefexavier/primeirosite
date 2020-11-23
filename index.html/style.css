@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(231, 229, 229);
+}
+h1{
+    color: rgb(31, 37, 46);
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+  padding-top: 25px;
+}
+
+footer{
+    background-color: rgb(61, 59, 59);
+    color: white;
+    height: 60px;
+}
+footer.logotipo.infos{
+    text-align: left;
+}
+h2{
+    font-family: monospace;
+    text-align: justify;
+    color: rgb(61, 61, 62);
+    padding: 20px;
+}
+
+.container{
+    padding: 20px;;
+}
+ #tex{
+    color: rgb(31, 37, 46);
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+    padding: 50px;
+ }
+ #carouselExampleCaptions{
+     padding: 70px;
+     
+ }
+ #carouselExampleControls{
+     padding: 100px;
+ }
+ .bro{
+     padding-top: 50px;
+ }
+
+ #texto{
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 25px;
+    margin: 5px black;
+    font-family: monospace;
+    text-align: justify;
+    float:center;
+    font-size: 25px;
+ }
+ .card-title{
+    padding: 25px;
+ }
+ #contato{
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 25px;
+    margin: 5px black;
+    font-family: monospace;
+    text-align: justify;
+    float:center;
+    font-size: 25px;
+ }
+ h4{
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 25px;
+    margin: 5px black;
+    font-family: monospace;
+    text-align: justify;
+    float:center;
+    font-size: 50px;
+ }
